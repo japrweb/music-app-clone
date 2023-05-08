@@ -1,6 +1,6 @@
-# Project Lyrics
+# Music App Clone (Modified Lyrics Version)
 
-Develop an elegant React.js Music Application. 
+Develop an elegant React.js Music Application based on the original Project Lyrics by the JavaScript Mastery team. Original README [here](https://github.com/adrianhajdin/project_music_player)
 
 Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
 
